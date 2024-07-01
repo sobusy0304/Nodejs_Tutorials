@@ -6,3 +6,5 @@ npm i express dotenv --save
 to save the dotenv in this project
 npm i nodemon --save-dev
 to save the nodemon in this development
+npm i mongoose --save
+to install mongoose in this env
